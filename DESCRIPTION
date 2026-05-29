@@ -1,8 +1,0 @@
-Package: RSG
-Title: Residential Segregation Measures
-Version: 0.1.0
-Description: 주거지분리 측도를 계산하는 연습용 패키지.
-License: file LICENSE
-Encoding: UTF-8
-Imports:
-  sf
